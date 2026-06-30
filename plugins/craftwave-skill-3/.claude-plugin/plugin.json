@@ -1,0 +1,8 @@
+{
+  "name": "craftwave-skill-3",
+  "description": "列出当前最受欢迎的邮轮目的地，帮助用户了解不同航线的风景与文化，适合想要体验多样旅行的游客。",
+  "version": "0.1.0",
+  "author": {
+    "name": "craftwave"
+  }
+}
